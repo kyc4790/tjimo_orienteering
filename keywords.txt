@@ -1,0 +1,179 @@
+orion
+hunter
+andromeda
+casseiopeia
+pisces
+libra
+aquarius
+scorpio
+suse
+princess peach
+sonic
+lamplight
+memory
+dreamland
+penguin
+beaver
+spikey
+messenger
+incognito
+ruler
+numerical
+glue
+matrices
+epsilon
+alpha
+beta
+gamma
+delta
+zeta
+eta
+thetha
+iota
+kappa
+lambda
+mu
+nu
+xi
+omicron
+pi
+rho
+sigma
+tau
+upsilon
+phi
+chi
+psi
+omega
+torque
+force
+acceleration
+velocity
+momentum
+gravitation
+keybored
+panda
+chameleon
+globe
+pinecone
+amsco
+pageant
+milky way
+tjhsst
+wolfram alpha
+docker
+centarus
+capricorn
+leo
+galois
+the cat in the hat
+batmobile
+bernstein
+stravinsky
+verdi
+camry
+yemen
+honda
+purcell
+italy
+myanmar
+eritrea
+fir
+douglas
+redwood
+go dog go
+rolls-rice
+expelliarmus
+accio
+lumos
+canis major
+canis minor
+sirius
+polaris
+mercury
+venus
+mars
+saturn
+jupiter
+neptune
+uranus
+pluto
+alpha centauri
+antlia
+apus
+aquila
+ara
+auriga
+bootes
+caelum
+camelopardalis
+canes venatici
+capricorn
+carina
+casseiopeia
+cepheus
+cetus
+chameleon
+circinnus
+columba
+coma berenices
+Corona Austrina
+Corona Borealis
+Corvus
+Crater
+Crux
+Cygnus
+Delphinus
+Dorado
+Draco
+Equuleus
+Eridanus
+Fornax
+Gemini
+Grus
+Hercules
+Horologium
+Hydra
+Hydrus
+Indus
+Lacerta
+Leo Minor
+Lepus
+Libra
+Lupus
+Lynx
+Lyra
+Mensa
+Microscopium
+Monoceros
+Musca
+Norma
+Octans
+Ophiuchus
+Pavo
+Pegasus
+Perseus
+Phoenix
+Pictor
+Piscis Austrinus
+Puppis
+Pyxis
+Reticulum
+Sagitta
+Sagittarius
+Scorpius
+Sculptor
+Scutum
+Serpens
+Sextans
+Taurus
+Telescopium
+Triangulum
+Triangulum Australe
+Tucana
+Ursa Major
+Ursa Minor
+Vela
+Virgo
+Volans
+Vulpecula
